@@ -27,13 +27,13 @@ Body {
     margin-right: 5%;
     margin-top: 2%;
     justify-content: center;
-    }
-    input, select, textarea, button  {
-        font-family: sans-serif;
-        font-size: 1em;
-        color: rgb(15, 55, 3);
-        border-radius: 5px;
-     }
+}
+input, select, textarea, button  {
+    font-family: sans-serif;
+    font-size: 1em;
+    color: rgb(15, 55, 3);
+    border-radius: 5px;
+}
 .grupo:before, .grupo:after  {
     display: table;
 }
